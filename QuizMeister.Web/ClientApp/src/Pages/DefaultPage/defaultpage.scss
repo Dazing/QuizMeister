@@ -1,0 +1,23 @@
+@import "../../Commons/variables.scss";
+
+#app-default-page {
+  text-align: center;
+
+  width: 50%;
+  margin: 0px auto;
+
+  h1 {
+    margin: 20px 0px;
+  }
+
+  .default-page-text {
+    text-align: left;
+    p {
+      margin: 20px 0px;
+    }
+  }
+
+  button {
+    margin: 0px auto;
+  }
+}
